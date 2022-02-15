@@ -1,7 +1,7 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:OpenUnited/product-factory-backend.git
+	url = git@github.com:Allanetizen/product-factory-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:OpenUnited/product-factory-frontend.git
+	url = git@github.com:Allanetizen/product-factory-frontend.git
 	branch = main
